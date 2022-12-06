@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reat-weatherForecast-v-2/static/css/main.209931bb.css",
+    "main.js": "/reat-weatherForecast-v-2/static/js/main.9b9c9980.js",
+    "static/js/787.f483f970.chunk.js": "/reat-weatherForecast-v-2/static/js/787.f483f970.chunk.js",
+    "index.html": "/reat-weatherForecast-v-2/index.html",
+    "static/media/twt.svg": "/reat-weatherForecast-v-2/static/media/twt.2d4677adc9df83679c6db0c1872c83aa.svg",
+    "main.209931bb.css.map": "/reat-weatherForecast-v-2/static/css/main.209931bb.css.map",
+    "main.9b9c9980.js.map": "/reat-weatherForecast-v-2/static/js/main.9b9c9980.js.map",
+    "787.f483f970.chunk.js.map": "/reat-weatherForecast-v-2/static/js/787.f483f970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209931bb.css",
+    "static/js/main.9b9c9980.js"
+  ]
+}
