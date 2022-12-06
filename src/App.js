@@ -9,7 +9,7 @@ import getFormattedWeatherData from "./services/weatherService";
 import twt from "./twt.svg";
 
 function App() {
-  const [query, setQuery] = useState({ q: "Tumakuru" });
+  const [query, setQuery] = useState({ q: "" });
   const [units, setUnits] = useState("metric");
   const [weather, setWeather] = useState(null);
   useEffect(() => {
@@ -41,7 +41,7 @@ function App() {
           <div>
             <TimeAndLocation weather={weather} />
             <TemperatureAndDetails weather={weather} />
-            <Forecast title="Daily Forecast" items={weather.hourly} />
+            <Forecast title="Hourly Forecast" items={weather.hourly} />
           </div>
         )}
       </div>
