@@ -6,7 +6,7 @@ import TimeAndLocation from "./components/TimeAndLocation";
 import TemperatureAndDetails from "./components/TemperatureAndDetails";
 import Forecast from "./components/Forecast";
 import getFormattedWeatherData from "./services/weatherService";
-import twt from "./twt.svg";
+
 
 function App() {
   const [query, setQuery] = useState({ q: "" });
